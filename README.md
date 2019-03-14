@@ -7,5 +7,5 @@ Installing & Run(Local):
   2. Run following Commands.
     - $ yarn
     - $ yarn start
-  3. Go to this URL 
+  3. Go to this URL:
     http://localhost:3000/premium-themes/paperbase/
